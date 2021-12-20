@@ -1,7 +1,7 @@
 # FormsAutoCompiler
  <a href="https://discord.gg/MNsJu4AjxJ"><img alt="Website" src="https://telegra.ph/file/616bc0732af400e09ccb3.png"></a>
 <p align="center">
-  <img src="resources/proofs.gif" alt="Logo">
+  <img src="proofs.gif" alt="Logo">
 </p>
 
 ### 🛠️ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs
