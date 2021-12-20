@@ -4,7 +4,7 @@
  
  
 <p align="center">
- ### 🚨 Proofs
+          ### 🚨 Proofs
   <img src="proofs.gif" alt="Logo">
 </p>
 
