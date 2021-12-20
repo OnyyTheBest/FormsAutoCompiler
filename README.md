@@ -3,7 +3,7 @@
  
  
  
-<p align="center">
+<p>
           ### 🚨 Proofs
   <img src="proofs.gif" alt="Logo">
 </p>
