@@ -1,5 +1,5 @@
 # FormsAutoCompiler
-<b href="https://www.virustotal.com/gui/file/25dd50077f72a17beeebc874e699401b9f6d8422b0e09e21dd8d173b5b2b9d42?nocache=1"><img alt="website" src="https://telegra.ph/file/55c6241cf9785311fea5a.png"></b>
+<a href="https://www.virustotal.com/gui/file/25dd50077f72a17beeebc874e699401b9f6d8422b0e09e21dd8d173b5b2b9d42?nocache=1"><img alt="website" src="https://telegra.ph/file/55c6241cf9785311fea5a.png"></a>
 <a href="https://discord.gg/MNsJu4AjxJ"><img alt="Website" src="https://telegra.ph/file/616bc0732af400e09ccb3.png"></a>
    
    ###🚨 Proofs
