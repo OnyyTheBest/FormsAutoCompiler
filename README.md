@@ -3,9 +3,8 @@
  
  
            ### 🚨 Proofs
-<p>
-
-  <img src="proofs.gif" alt="Logo">
+<p align="center">
+   <img src="proofs.gif" alt="Logo">
 </p>
 
 ### 🛠️ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs
