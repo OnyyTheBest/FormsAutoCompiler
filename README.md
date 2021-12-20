@@ -2,9 +2,9 @@
  <a href="https://discord.gg/MNsJu4AjxJ"><img alt="Website" src="https://telegra.ph/file/616bc0732af400e09ccb3.png"></a>
  
  
- 
+           ### 🚨 Proofs
 <p>
-          ### 🚨 Proofs
+
   <img src="proofs.gif" alt="Logo">
 </p>
 
