@@ -1,1 +1,1 @@
-py onlyform.py
+python3 onlyform.py
