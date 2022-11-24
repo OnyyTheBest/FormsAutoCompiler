@@ -16,4 +16,4 @@
 ## 🗒️ Nᴇᴄᴇssᴀʀʏ Requirments
 
 ☞ `Python 3.9.7 or higher` - Get python from [python.org](https://www.python.org/downloads/)<br>
-☞ `Chrome Web Driver` - Get chrome web driver for your version of chrome here[chromedriver.chromium.org](https://chromedriver.chromium.org/downloads)<br>
+☞ `Chrome Web Driver` - Get chrome web driver for your version of chrome here [chromedriver.chromium.org](https://chromedriver.chromium.org/downloads)<br>
